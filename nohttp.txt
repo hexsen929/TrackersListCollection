@@ -1,16 +1,18 @@
 https://1337.abcvg.info:443/announce
 
-https://jvavav.com:443/announce
-
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker.x2k.ru:443/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr2.trkb.ru:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
+
+https://tracker.cloudit.top:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -76,8 +78,6 @@ udp://ipv4.rer.lol:2710/announce
 
 udp://jutone.com:6969/announce
 
-udp://jvavav.com:6969/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
@@ -103,6 +103,8 @@ udp://opentracker.io:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -142,13 +144,13 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
+udp://tracker.deadorbit.nl:6969/announce
+
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.edkj.club:6969/announce
-
-udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -159,8 +161,6 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
-
-udp://tracker.kmzs123.cf:17272/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -183,8 +183,6 @@ udp://tracker.vds.nz:6969/announce
 udp://tracker.waaa.moe:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
 
